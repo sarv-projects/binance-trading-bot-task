@@ -1,0 +1,5 @@
+2026-02-01 20:13:49,741 - INFO - Connected to Binance Futures Testnet
+2026-02-01 20:14:01,232 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2026-02-01 20:14:01,387 - INFO - Order Created: ID 12074881109
+2026-02-01 20:14:19,615 - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.002, 'timeInForce': 'GTC', 'price': '90000.0'}
+2026-02-01 20:14:19,776 - INFO - Order Created: ID 12074885629
